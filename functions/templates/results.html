@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resultado - Clasificador de Marcas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+      .result-block {
+        padding: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        margin-bottom: 1rem;
+        background-color: #f9f9f9;
+      }
+      .result-block + .result-block {
+        border-top: 3px solid #007bff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="form-container">
+        <h1>Resultado de Clasificación</h1>
+        <p class="subtitle">Aquí están las clasificaciones más cercanas para tu empresa</p>
+        
+        {% for row in results %}
+          {% if row is sequence and row is not string %}
+            {% set item = row[0] %}
+            {% set score = row[1] if row|length > 1 else None %}
+          {% else %}
+            {% set item = row %}
+            {% set score = None %}
+          {% endif %}
+
+          <div class="result-block">
+            <div class="result-item">
+              <h3 class="result-label">Clase:</h3>
+              <p class="result-value">{{ item["clase"] }}</p>
+            </div>
+            <div class="result-item">
+              <h3 class="result-label">Descripción:</h3>
+              <p class="result-value">{{ item["descripcion"] }}</p>
+            </div>
+            {% if score is not none %}
+
+            {% endif %}
+          </div>
+        {% endfor %}
+
+        <div class="actions">
+          <button type="button" class="back-btn" onclick="window.history.back()">
+            Realizar Nueva Búsqueda
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

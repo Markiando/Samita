@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clasificador de Marcas</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">
+  </head>
+  <body>
+    <div class="container">
+      <div class="form-container">
+        <h1>Encuentra tu Clasificación de Marca</h1>
+        <p class="subtitle">Identifica qué marca clasifica va con tu empresa o marca</p>
+        <form method="post" action="/results">
+          <input type="text" id="company_name" name="company_name" placeholder="Nombre de la empresa" required>
+          <textarea id="company_description" name="company_description" placeholder="Descripción o giro de la empresa (a qué se dedica)" required></textarea>
+          <input type="submit" value="Buscar Clasificación">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,235 @@
+﻿clase,descripcion
+1,adhesivos para la industria
+1,"agricultura, horticultura y silvicultura"
+1,"compost, abonos, fertilizantes"
+1,compuestos y preparaciones para la extinción y prevención de incendios
+1,masillas y otras materias de relleno en pasta
+1,materias plásticas en bruto
+1,preparaciones biológicas para la industria y la ciencia.
+1,preparaciones para templar y soldar metales
+1,"Productos químicos para la industria, la ciencia y la fotografía"
+1,resinas artificiales en bruto
+1,sustancias para curtir
+2,colorantes y tintes
+2,"metales en hojas y en polvo para pintura, decoración, imprenta y trabajos artísticos."
+2,"Pinturas, barnices, lacas"
+2,productos contra la herrumbre y el deterioro de la madera
+2,resinas naturales en bruto
+2,"tintas de imprenta, de marcado y de grabado"
+3,dentífricos no medicinales
+3,preparaciones para blanquear y otras sustancias para lavar la ropa
+3,"preparaciones para limpiar, pulir, desengrasar y raspar."
+3,Productos cosméticos y preparaciones de tocador no medicinales
+3,"productos de perfumería, aceites esenciales"
+4,"Aceites y grasas para uso industrial, ceras"
+4,combustibles y materiales de alumbrado
+4,"compuestos para absorber, rociar y asentar el polvo"
+4,lubricantes
+4,velas y mechas de iluminación.
+5,alimentos para bebés
+5,alimentos y sustancias dietéticas para uso médico o veterinario
+5,desinfectantes
+5,"emplastos, material para apósitos"
+5,"fungicidas, herbicidas."
+5,material para empastes e impresiones dentales
+5,preparaciones para uso médico y veterinario
+5,Productos farmacéuticos
+5,productos higiénicos y sanitarios para uso médico
+5,productos para eliminar animales dañinos
+5,suplementos alimenticios
+6,cables e hilos metálicos no eléctricos
+6,cajas de caudales.
+6,construcciones transportables metálicas
+6,contenedores metálicos de almacenamiento y transporte
+6,materiales de construcción y edificación metálicos
+6,"Metales comunes y sus aleaciones, menas"
+6,pequeños artículos de ferretería metálicos
+7,acoplamientos y elementos de transmisión (excepto para vehículos terrestres)
+7,distribuidores automáticos.
+7,incubadoras de huevos
+7,instrumentos agrícolas que no sean herramientas de mano que funcionan manualmente
+7,"Máquinas, máquinas‑herramientas y herramientas mecánicas"
+7,motores (excepto para vehículos terrestres)
+8,armas blancas
+8,"artículos de cuchillería, tenedores y cucharas"
+8,Herramientas e instrumentos de mano que funcionan manualmente
+8,maquinillas de afeitar.
+9,"Aparatos e instrumentos científicos, de investigación, de navegación, geodésicos, fotográficos, cinematográficos, audiovisuales, ópticos, de pesaje, de medición, de señalización, de detección, de pruebas, de inspección, de salvamento y de enseñanza"
+9,"aparatos e instrumentos de conducción, distribución, transformación, acumulación, regulación o control de la distribución o del consumo de electricidad"
+9,"aparatos e instrumentos de grabación, transmisión, reproducción o tratamiento de sonidos, imágenes o datos"
+9,cajas registradoras
+9,dispositivos de cálculo
+9,equipos de buceo
+9,extintores.
+9,mecanismos para aparatos que funcionan con monedas
+9,ordenadores y periféricos
+9,software
+9,soportes de registro y almacenamiento digitales o análogos vírgenes
+9,soportes grabados o descargables
+10,aparatos de masaje
+10,"Aparatos e instrumentos quirúrgicos, médicos, odontológicos y veterinarios"
+10,"aparatos, dispositivos y artículos de puericultura"
+10,"aparatos, dispositivos y artículos para actividades sexuales."
+10,artículos ortopédicos
+10,dispositivos terapéuticos y de asistencia para personas discapacitadas
+10,material de sutura
+10,"miembros, ojos y dientes artificiales"
+11,"Aparatos e instalaciones de alumbrado, calefacción, enfriamiento, producción de vapor, cocción, secado, ventilación y distribución de agua, así como instalaciones sanitarias."
+12,"aparatos de locomoción terrestre, aérea o acuática."
+12,Vehículos
+13,Armas de fuego
+13,explosivos
+13,fuegos artificiales.
+13,municiones y proyectiles
+14,artículos de joyería
+14,artículos de relojería e instrumentos cronométricos.
+14,Metales preciosos y sus aleaciones
+14,piedras preciosas y semipreciosas
+15,atriles para partituras y soportes para instrumentos musicales
+15,batutas.
+15,Instrumentos musicales
+16,adhesivos de papelería o para uso doméstico
+16,artículos de papelería y de oficina (excepto muebles)
+16,caracteres de imprenta
+16,clichés de imprenta.
+16,fotografías
+16,"hojas, películas y bolsas de materias plásticas para embalar y empaquetar"
+16,material de dibujo y para artistas
+16,material de encuadernación
+16,material de instrucción y didáctico
+16,Papel y cartón
+16,pinceles
+16,productos de imprenta
+17,"Caucho, gutapercha, goma, amianto y mica en bruto o semielaborados, y sus sucedáneos"
+17,"materiales para calafatear, estopar y aislar"
+17,materias plásticas y resinas en forma extrudida para procesos de fabricación
+17,"tuberías, tubos y mangueras flexibles no metálicos."
+18,artículos de equipaje y bolsas de transporte
+18,bastones
+18,"collares, correas y ropa para animales."
+18,Cuero y cuero de imitación
+18,"fustas, arneses y artículos de guarnicionería"
+18,paraguas y sombrillas
+18,pieles de animales
+19,"asfalto, pez, alquitrán y betún"
+19,construcciones transportables no metálicas
+19,Materiales de construcción no metálicos
+19,monumentos no metálicos.
+19,tuberías rígidas no metálicas para la construcción
+20,ámbar amarillo.
+20,conchas
+20,contenedores no metálicos de almacenamiento o transporte
+20,espuma de mar
+20,"hueso, cuerno, ballena o nácar, en bruto o semielaborados"
+20,"Muebles, espejos, marcos"
+21,"artículos de cristalería, porcelana y loza."
+21,cepillos y materiales para fabricar cepillos
+21,material de limpieza
+21,peines y esponjas
+21,"utensilios de cocina y vajilla, excepto tenedores, cuchillos y cucharas"
+21,Utensilios y recipientes para uso doméstico y culinario
+21,vidrio en bruto o semielaborado (excepto vidrio de construcción)
+22,Cuerdas y cordeles
+22,"materiales de acolchado y relleno (excepto papel, cartón, caucho o materias plásticas)"
+22,materias textiles fibrosas en bruto y sus sucedáneos.
+22,redes
+22,sacos para el transporte y almacenamiento de mercancías a granel
+22,tiendas de campaña y lonas
+22,toldos de materias textiles o sintéticas
+22,velas de navegación
+23,Hilos e hilados para uso textil.
+24,cortinas de materias textiles o de materias plásticas.
+24,ropa de hogar
+24,Tejidos y sus sucedáneos
+25,"Prendas de vestir, calzado, artículos de sombrerería."
+26,adornos para el cabello
+26,"botones, ganchos y ojetes, alfileres y agujas"
+26,cabello postizo.
+26,cintas y lazos de mercería
+26,"Encajes, cordones y bordados"
+26,flores artificiales
+27,"Alfombras, felpudos, esteras y esterillas"
+27,linóleo y otros revestimientos de suelos
+27,tapices murales que no sean de materias textiles.
+28,adornos para árboles de Navidad.
+28,aparatos de videojuegos
+28,artículos de gimnasia y deporte
+28,Juegos y juguetes
+29,aceites y grasas para uso alimenticio.
+29,"Carne, pescado, carne de ave y de caza"
+29,extractos de carne
+29,"frutas y verduras, hortalizas y legumbres en conserva, congeladas, secas y cocidas"
+29,huevos
+29,"jaleas, confituras, compotas"
+29,"leche, quesos, mantequilla, yogur y otros productos lácteos"
+30,"arroz, pastas y fideos"
+30,"azúcar, miel, jarabe de melaza"
+30,"Café, té, cacao y sucedáneos del café"
+30,chocolate
+30,harinas y preparaciones a base de cereales
+30,"helados cremosos, sorbetes y otros helados"
+30,hielo.
+30,"levadura, polvos de hornear"
+30,"pan, pastelería y confitería"
+30,"sal, productos para sazonar, especias, hierbas en conserva"
+30,tapioca y sagú
+30,"vinagre, salsas y otros condimentos"
+31,animales vivos
+31,"bulbos, plantones y semillas para plantar"
+31,"frutas y verduras, hortalizas y legumbres frescas"
+31,granos y semillas en bruto o sin procesar
+31,hierbas aromáticas frescas
+31,malta.
+31,plantas y flores naturales
+31,"Productos agrícolas, acuícolas, hortícolas y forestales en bruto y sin procesar"
+31,productos alimenticios y bebidas para animales
+32,aguas minerales
+32,bebidas a base de frutas y zumos de frutas
+32,bebidas sin alcohol
+32,Cervezas
+32,siropes y otras preparaciones sin alcohol para elaborar bebidas.
+33,"Bebidas alcohólicas, excepto cervezas"
+33,preparaciones alcohólicas para elaborar bebidas.
+34,artículos para fumadores
+34,cerillas.
+34,cigarrillos electrónicos y vaporizadores bucales para fumadores
+34,cigarrillos y puros
+34,Tabaco y sucedáneos del tabaco
+35,"gestión, organización y administración de negocios comerciales"
+35,Publicidad
+35,trabajos de oficina.
+36,negocios inmobiliarios.
+36,servicios de seguros
+36,"Servicios financieros, monetarios y bancarios"
+37,extracción minera
+37,perforación de gas y de petróleo.
+37,Servicios de construcción
+37,servicios de instalación y reparación
+38,Servicios de telecomunicaciones.
+39,embalaje y almacenamiento de mercancías
+39,organización de viajes.
+39,Transporte
+40,conservación de alimentos y bebidas.
+40,purificación del aire y tratamiento del agua
+40,reciclaje de residuos y desechos
+40,servicios de impresión
+40,Tratamiento de materiales
+41,actividades deportivas y culturales.
+41,Educación
+41,formación
+41,servicios de entretenimiento
+42,análisis industrial
+42,control de calidad y servicios de autenticación
+42,diseño y desarrollo de hardware y software.
+42,investigación y diseño industriales
+42,Servicios científicos y tecnológicos
+42,servicios de investigación y diseño conexos
+43,hospedaje temporal.
+43,Servicios de restauración (alimentación)
+44,"servicios de agricultura, acuicultura, horticultura y silvicultura."
+44,Servicios médicos
+44,servicios veterinarios
+44,tratamientos de higiene y de belleza para personas o animales
+45,servicios de seguridad para la protección física de bienes materiales y personas
+45,Servicios jurídicos
+45,servicios personales y sociales prestados por terceros para satisfacer necesidades individuales.
