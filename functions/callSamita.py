@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 def create_embedding(question: str): #tipo str
-    """Convierte texto a embedding"""
+    # Convierte texto a embedding
     response = openai_client.embeddings.create(
         input=question,
         model="text-embedding-3-large" 
@@ -67,17 +67,17 @@ def find_top_matches(question_embedding, top_n=3):
 #def find_closest_match(question_embedding):
    # best_score = -1
    # best_record = None
-""" 
+
     # Load once at startup
-    with open("results.json", "r", encoding="utf-8") as f:
-        RECORDS = json.load(f)
-    for record in RECORDS:
+    #with open("results.json", "r", encoding="utf-8") as f:
+    #    RECORDS = json.load(f)
+   # for record in RECORDS:
         #similarity = cosine(question_embedding, record["embedding"])
-        similarity  = cosine_similarity(np.array(record["embedding"]).reshape(1, -1), np.array(question_embedding).reshape(1, -1))[0][0]
-        if similarity > best_score:
-            best_score = similarity
-            best_record = record
+        #similarity  = cosine_similarity(np.array(record["embedding"]).reshape(1, -1), np.array(question_embedding).reshape(1, -1))[0][0]
+       # if similarity > best_score:
+      #      best_score = similarity
+     #       best_record = record
 
     #return best_record, best_score
-    return best_record, best_score
-"""
+    # return best_record, best_score
+
